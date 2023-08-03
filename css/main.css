@@ -12,6 +12,8 @@ main {
     justify-content: center;
     align-items: center;
     gap: 5px;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .board-block {
